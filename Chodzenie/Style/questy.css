@@ -1,0 +1,50 @@
+#containerrozmowa {
+    display:none;
+}
+
+#rozmowa_npc {
+    border-style:dotted;
+    height:543px;
+    width: 100%;
+}
+
+#rozmowa_tekst {
+    float:right;
+    margin-right: 30px;
+    margin-top: 70px;
+    margin-left: 25px;
+    border-style: double;
+    width: 698px;
+    height: 400px;
+}
+
+#rozmowa_tekst_formatowanie {
+    margin: 30px;
+    height: 340px;
+}
+
+#rozmowa_avatar_npc {
+    border-style: double;
+    float: left;
+    margin-top: 70px;
+    margin-left: 30px;
+    height:400px;
+    width: 300px;
+}
+
+#rozmowa_odpowiedzi {
+    border-style: double;
+    height: 100px;
+}
+
+#rozmowa_postac {
+    border-style:double;
+    width:100%;
+    height: 205px;
+}
+
+#rozmowa_wybory {
+    line-height: 20px;
+    margin: 30px;
+    height: 145px;
+}
